@@ -1,0 +1,11 @@
+Belajar GITHUB
+APA ITU GITHUB ?
+
+Layanan cloude yang berguna untuk mengelola dan menyimpan projek bisa menggunakan VCS. (website yang didalamnya menggunakan git)
+
+Kegunaan :
+Bisa melakukan branch, commit, repositroy namun dalam situasi online
+Push dan Pull :
+
+
+Syarat : jadikan github sebagai repo agar tersambung dengan repo yang ada di komputer, agar bisa melakukan push and pull pada commit.
