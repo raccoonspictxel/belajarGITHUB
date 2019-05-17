@@ -11,3 +11,5 @@ Push dan Pull :
 Syarat : jadikan github sebagai repo agar tersambung dengan repo yang ada di komputer, agar bisa melakukan push and pull pada commit.
 
 ADA TAMBAHAN DISINI YOOYOYOYOYOY
+
+Nambah Lagi 1
